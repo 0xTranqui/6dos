@@ -99,6 +99,19 @@
   "resolved" "https://registry.npmjs.org/@rushstack/eslint-patch/-/eslint-patch-1.1.3.tgz"
   "version" "1.1.3"
 
+"@typeform/embed-react@^1.17.0":
+  "integrity" "sha512-KWLlyISmapKZk5tkOQ3MmEagZ3cOd4y2AOaQbtmwCX565KJX0PbMA4YZbhVoe119LT+K72fU45X+8VjbNCPegQ=="
+  "resolved" "https://registry.npmjs.org/@typeform/embed-react/-/embed-react-1.17.0.tgz"
+  "version" "1.17.0"
+  dependencies:
+    "@typeform/embed" "1.36.0"
+    "fast-deep-equal" "^3.1.3"
+
+"@typeform/embed@1.36.0":
+  "integrity" "sha512-7T+xbbGw7/o6bOOuMHrD7scwvl+YiJmYIiUP7YOGlyzA5BPSGt3wQx9M+J8D/X12MhgFNX4kgkwhPNyiALXxIg=="
+  "resolved" "https://registry.npmjs.org/@typeform/embed/-/embed-1.36.0.tgz"
+  "version" "1.36.0"
+
 "@types/json5@^0.0.29":
   "integrity" "sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ=="
   "resolved" "https://registry.npmjs.org/@types/json5/-/json5-0.0.29.tgz"
@@ -1563,7 +1576,7 @@
   "resolved" "https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz"
   "version" "16.13.1"
 
-"react@^16 || ^17 || ^18", "react@^17.0.2 || ^18.0.0-0", "react@^18.2.0", "react@>= 16", "react@>= 16.8.0 || 17.x.x || ^18.0.0-0", "react@18.2.0":
+"react@^16 || ^17 || ^18", "react@^17.0.2 || ^18.0.0-0", "react@^18.2.0", "react@>= 16", "react@>= 16.8.0 || 17.x.x || ^18.0.0-0", "react@>=16.8.0", "react@18.2.0":
   "integrity" "sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ=="
   "resolved" "https://registry.npmjs.org/react/-/react-18.2.0.tgz"
   "version" "18.2.0"

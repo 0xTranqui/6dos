@@ -1,6 +1,8 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import Phases from '../components/Phases'
+import TypeformWidget from '../components/TypeformWidget'
+import Link from 'next/link'
 
 export default function Home() {
   return (
@@ -21,9 +23,11 @@ export default function Home() {
             <Phases />
           </div>
           <div className="mt-20 w-full flex flex-row flex-wrap justify-start">
+            <Link href="/typeform">
               <button className="text-center w-fit border-sold border-2 border-black p-2 hover:bg-black hover:text-white">
                 JOIN US
               </button>
+            </Link>
           </div>          
         </div>
       </main>
