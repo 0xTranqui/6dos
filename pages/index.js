@@ -15,7 +15,7 @@ export default function Home() {
       <main className="text-black m-4 h-auto h-min-screen">
         <div className=" p-2 flex flex-row flex-wrap justify-start font-inter">      
           <div className=" flex flex-row flex-wrap justify-start">
-            <div className="font-light text-lg w-7/12 h-fit">
+            <div className="font-light text-lg w-full sm:w-7/12 h-fit">
               <b>6DoS</b> is an Art project between 10 friends who met on the Internet. Composing of musicians, visual artists, engineers, and community organizers, we are documenting every step we take for collective creation where there is no individual ownership of the final work. Divided into phases, precise and categorical participation is going to guide the creative direction of this project. We hope this project serves to provide a lasting impression and guidance towards Art as a practice of care and passion. 
             </div>           
           </div>
