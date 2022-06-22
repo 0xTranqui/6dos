@@ -19,10 +19,10 @@ export default function Home() {
               <b>6DoS</b> is an Art project between 10 friends who met on the Internet. Composing of musicians, visual artists, engineers, and community organizers, we are documenting every step we take for collective creation where there is no individual ownership of the final work. Divided into phases, precise and categorical participation is going to guide the creative direction of this project. We hope this project serves to provide a lasting impression and guidance towards Art as a practice of care and passion. 
             </div>           
           </div>
-          <div className="mt-20 w-full flex flex-row flex-wrap justify-start">
+          <div className="mt-5 sm:mt-20 w-full flex flex-row flex-wrap justify-start">
             <Phases />
           </div>
-          <div className="mt-20 w-full flex flex-row flex-wrap justify-start">
+          <div className="mt-5 sm:mt-20 w-full flex flex-row flex-wrap justify-start">
             <Link href="/typeform">
               <button className="text-center w-fit border-sold border-2 border-black p-2 hover:bg-black hover:text-white">
                 JOIN US
