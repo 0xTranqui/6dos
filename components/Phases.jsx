@@ -16,7 +16,7 @@ export default function Phases() {
                      } h-5 w-5`}
                   /> */}
                </Disclosure.Button>
-               <Disclosure.Panel className="px-4 pt-4 pb-2 text-lg">
+               <Disclosure.Panel className="bg-[#FFAFC2] px-4 pt-4 pb-2 text-lg">
                   <div>
                      <div>
                      ↳ Manifesto
@@ -46,7 +46,7 @@ export default function Phases() {
                      } h-5 w-5`}
                   /> */}
                </Disclosure.Button>
-               <Disclosure.Panel className="px-4 pt-4 pb-2 text-lg">
+               <Disclosure.Panel className="bg-[#FFBC9E] px-4 pt-4 pb-2 text-lg">
                   <div>
                      <div>
                      ↳ Recruitment
@@ -79,7 +79,7 @@ export default function Phases() {
                      } h-5 w-5`}
                   /> */}
                </Disclosure.Button>
-               <Disclosure.Panel className="px-4 pt-4 pb-2 text-lg">
+               <Disclosure.Panel className="bg-[#FFD77B] px-4 pt-4 pb-2 text-lg">
                   <div>
                      <div>
                      ↳ Artifact Curation
@@ -109,7 +109,7 @@ export default function Phases() {
                      } h-5 w-5`}
                   /> */}
                </Disclosure.Button>
-               <Disclosure.Panel className="px-4 pt-4 pb-2 text-lg">
+               <Disclosure.Panel className="bg-[#F9F871] px-4 pt-4 pb-2 text-lg">
                   <div>
                      <div>
                      ↳ Production
